@@ -1,0 +1,40 @@
+.wrapper{
+   margin-top: 100px;
+}
+.traffic-signal{
+   width: 50px;
+   margin: auto;
+   padding: 10px 3px;
+   background-color: #000;
+   border: 8px solid #000;
+   border-radius: 50px;
+}
+.traffic-signal div{
+   width:50px;
+   height: 50px;
+   border-radius: 50%;
+   opacity: 0.3;
+}
+.green{
+   background-color: lightgreen;
+}
+.yellow{
+   margin-bottom: 10px;
+   background-color: yellow;
+}
+.red{
+   margin-bottom: 10px;
+   background-color: red;
+}
+.line1{
+   width:10px;
+   height:200px;
+   margin: auto;
+   background: #000;
+}
+.line2{
+   width:70px;
+   height:10px;
+   margin: auto;
+   background:rgb(0, 0, 0);
+}
